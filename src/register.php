@@ -201,9 +201,8 @@ li a:hover:not(.active) {
   <li style="float:right"><a class="active" href="#about">User</a></li>
 </ul>
 <ul class="nav-down">
-  <li><a class="active" href="#home">Our Blog</a></li>
+  <li><a href="#home">Our Blog</a></li>
   <li><a href="#contact">Contact</a></li>
-  <li><a href="#about">Live Chat</a></li>
 </ul>
 <br/>
 <span class="dspan">Student Register</span>
